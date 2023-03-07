@@ -1,2 +1,2 @@
-# LeetCode101-C++
-coding practice, C++, LeetCode 101
+# LeetCode-CPP
+coding practice, C++, LeetCode
